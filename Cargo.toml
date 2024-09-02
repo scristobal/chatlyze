@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.69"
-async-openai = "0.10.1"
+async-openai = "0.24.0"
 chrono = "0.4.24"
 dotenv = "0.15.0"
 dptree = "0.3.0"
